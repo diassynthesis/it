@@ -21,7 +21,7 @@
 
 {
 
-    'name': 'Infrastructure',
+    'name': 'IT Infrastructure',
 
     'version': '2.0',
 
